@@ -1,0 +1,13 @@
+# Large binary files
+*.png
+*.pth
+*.pth.tar
+
+# Data directories
+datasets/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
